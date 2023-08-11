@@ -1,0 +1,56 @@
+@media (max-width: 767px) {
+    main.albumes ul.izq{
+        text-align: center;
+    }
+    main.albumes ul.der{
+        text-align: center;
+    }
+}
+
+@media (max-width: 1000px) {
+    header li{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 790px) {
+    iframe{
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 395px) {
+    footer p{
+        font-size: $FontSizeTextochico;
+    }
+}
+
+@media (max-width: 1050px) {
+    main.albumes img{
+        width: 350px;
+        height: auto;
+    }
+}
+@media (max-width: 850px) {
+    main.albumes img{
+        width: 300px;
+        height: auto;
+    }
+}
+@media (max-width: 290px) {
+    main.albumes img{
+        width: 200px;
+        height: auto;
+    }
+}
+@media (max-width: 995px) {
+    main.biografia .row{
+        gap: 50px;
+    }
+}
+@media (max-width: 767px) {
+    main.biografia .row{
+        gap: 232px;
+    }
+}

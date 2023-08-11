@@ -1,0 +1,5 @@
+@mixin flexible( $aling , $cover , $just){
+    text-align: $aling;
+    background-size: $cover;
+    justify-content: $just;
+}
